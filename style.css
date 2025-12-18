@@ -1,0 +1,16 @@
+body { font-family: Arial, sans-serif; }
+
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px; border-bottom: 1px solid #ddd; }
+
+.tooltip {
+  position: absolute;
+  background: #222;
+  color: white;
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  display: none;
+  pointer-events: none;
+  white-space: pre-line;
+}
