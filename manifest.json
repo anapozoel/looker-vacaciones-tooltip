@@ -1,0 +1,18 @@
+{
+  "name": "Vacaciones Tooltip Table",
+  "description": "Tabla con tooltip dinámico para vacaciones",
+  "supportUrl": "https://example.com",
+  "visualization": {
+    "id": "vacaciones_tooltip_table",
+    "label": "Tabla Vacaciones Tooltip",
+    "iconUrl": "https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg"
+  },
+  "components": {
+    "viz": {
+      "resources": {
+        "js": ["script.js"],
+        "css": ["style.css"]
+      }
+    }
+  }
+}
